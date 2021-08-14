@@ -1,6 +1,6 @@
 // bc99c182a4ca4c1e92d590e99b6e062c
 // link- https://newsapi.org/v2/top-headlines?country=in&apiKey=bc99c182a4ca4c1e92d590e99b6e062c
-console.log("hhj");
+//console.log("hhj");
 
 let accordion = document.getElementById('accordion');
 //console.log(accordion);
